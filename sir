@@ -4,8 +4,12 @@ pipeline {
       stage("car"){
          steps {
              echo "hello world"
-               
-            }
-        }
+         }
+      }
     }
 }
+               
+            
+         
+     
+
